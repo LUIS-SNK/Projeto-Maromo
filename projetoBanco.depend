@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1670103770 source:c:\users\ssd loucura\downloads\projetobanco\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conta.h"
+
+1670103786 c:\users\ssd loucura\downloads\projetobanco\conta.h
+
